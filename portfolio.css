@@ -1,7 +1,7 @@
 body {
 	background-color: #D4A190;
 }
-#greeting{
+h1#greeting{
 	font-family: arial;
 	font-size: 3em;
 	color: white;
