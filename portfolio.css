@@ -1,4 +1,9 @@
 body {
 	background-color: #0F144A;
 }
-
+h1#greeting{
+	text-align: center;
+	color: white;
+	font-size: 5em;
+	font-family: florabella;
+}
