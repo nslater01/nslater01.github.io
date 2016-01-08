@@ -1,6 +1,10 @@
 body {
 	background-color: #6F9496;
 }
+#img{
+	width: 1200px;
+	height: 30px;
+}
 h1#greeting{
 	text-align: center;
 	color: white;
