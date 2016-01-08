@@ -2,9 +2,9 @@ body {
 	background-color: #6F9496;
 }
 #triangle-border{
-	width: 1500px;
-	height: 40px;
-	padding-top: -15px;
+	width: 1250px;
+	height: 20px;
+	padding-top: 20px;
 }
 h1#greeting{
 	text-align: center;
