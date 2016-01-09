@@ -76,19 +76,247 @@ input, select {
   vertical-align: middle; 
 }
 
-
-
 body {
-	background-color: #6F9496;
+	background-color: #FFFEDE;
 }
 #dots-border-top{
-  width: 1200px;
-  height: 30px;
+  width: 100%;
+  height: 70px;
 }
-h1#greeting{
-	text-align: center;
-	color: white;
-	font-size: 5em;
-	font-family: florabella;
+div#top-nav { 
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  background: #FFFEDE;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
+div#top-nav li {
+  display: inline;
+  background: #FFFEDE;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+div#top-nav li a {
+  font-family: adagescriptjf;
+  color: #B5B262;
+  font-size: 2.5em;
+  }
+div#top-nav a:hover{
+  color: #5ECCBD;
+  }
+ 
+ img#photo {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: 2px solid #5ECCBD;
+  
+}
+
+h1#name{
+  font-family: nevis;
+  font-size: 5em;
+  color: #B5B262;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 5px;
+}
+p#title{
+  font-family: nevis;
+  font-size: 1em;
+  color: #5ECCBD;
+  text-align: center;
+  padding-bottom: 50px;
+}
+#photo{
+  border-radius: 70px 70px 70px 70px;
+ }
+img#div-1{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 1100px;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+h2#About{
+  font-family: adagescriptjf;
+  font-size: 3.5em;
+  color: #5ECCBD;
+  text-align: center;
+  padding-bottom: 30px;
+}
+p#about-me{
+  text-align: center;
+  font-family: nevis;
+  font-size: 1.5em;
+  color: #B5B262;
+  margin-left: 90px;
+  margin-right: 90px;
+  padding-bottom: 30px;
+}
+img#div-2{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 1100px;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+h2#skills{
+  font-family: adagescriptjf;
+  font-size: 3.5em;
+  color: #5ECCBD;
+  text-align: center;
+  padding-bottom: 30px;
+}
+#wrap {
+  overflow: auto;
+ 
+   
+}
+#left-col {
+   float:left;
+   margin-left: 280px;
+   font-family: nevis;
+   font-size: 1.5em;
+   color: #B5B262;
+}
+#right-col {
+   float: right;
+   margin-right: 230px;
+   font-family: nevis;
+   font-size: 1.5em;
+   color: #B5B262;
+   
+}
+img#div-3{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 1100px;
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+h2#work{
+  font-family: adagescriptjf;
+  font-size: 3.5em;
+  color: #5ECCBD;
+  text-align: center;
+  padding-bottom: 30px;
+}
+img#div-3{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 1100px;
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+h2#contact{
+  font-family: adagescriptjf;
+  font-size: 3.5em;
+  color: #5ECCBD;
+  text-align: center;
+  padding-bottom: 30px;
+}
+p#contact-text{
+   text-align: center;
+  font-family: nevis;
+  font-size: 1.5em;
+  color: #B5B262;
+  margin-left: 90px;
+  margin-right: 90px;
+  padding-bottom: 50px;
+}
+div#form{
+ position: absolute;
+  left: 470px;
+  width: 600px;
+  height: 800px;
+ }
+#mce-name {
+	display: inline-block;
+	background-color: rgb(254, 252, 242);
+	border: 1px solid rgb(213, 202, 184);
+	border-radius: 5px;
+	width: 228px;
+	height: 32px;
+	margin-right: 3px;
+	color: #7a7063;
+	padding: 8px;
+}
+#mce-email-2 {
+	display: inline-block;
+	background-color: rgb(254, 252, 242);
+	border: 1px solid rgb(213, 202, 184);
+	border-radius: 5px;
+	width: 210px;
+	height: 32px;
+	color: #7a7063;
+	padding: 8px;
+}
+#mce-reason {
+	display: inline-block;
+	background-color: rgb(254, 252, 242);
+	border: 1px solid rgb(213, 202, 184);
+	border-radius: 5px;
+	width: 464px;
+	height: 32px;
+	margin-top: 8px;
+	color: #7a7063;
+	padding: 6Spx;
+}
+#mce-message {
+	display: inline-block;
+	background-color: rgb(254, 252, 242);
+	border: 1px solid rgb(213, 202, 184);
+	border-radius: 5px;
+	width: 464px;
+	height: 115px;
+	margin-top: 8px;
+	color: #7a7063;
+	padding: 8px;
+}
+#mc-embedded-sendmessage {
+	background-color: rgb(220, 193, 153);
+	border: 1px solid rgb(220, 193, 153);
+	border-radius: 5px;
+	width: 148px;
+	height: 32px;
+	margin-top: 8px;
+	font-weight: bold;
+	font-size: 16px;
+	margin-left: 3px;
+	color: rgb(51, 51, 51);
+}
+.nav-container{
+   width: 145px;
+   height: 50px;
+   position: absolute;
+ }
+ .social-media{
+   width: 200px;
+ }
+ .social-media li{
+   display: block;
+   width: 33.3%;
+   margin-left: 380px;
+   }
+ .social-media li a{
+     color: #5ECCBD;
+     font-size: 3em;
+   }
+ .nav-container a:hover{
+     color: #B5B262;
+   }
+   p#copyright-text{
+     color: #5ECCBD;
+     font-family: nevis;
+     font-size: 1em;
+  }
+   
 
