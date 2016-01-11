@@ -299,7 +299,7 @@ div#form{
 .nav-container{
    width: 145px;
    height: 50px;
-   position: initial;
+   position: inherit;
  }
  .social-media{
    width: 200px;
