@@ -238,7 +238,7 @@ p#contact-text{
 
 .nav-container{
    width: 200px;
-   height: 50px;
+   height: 150px;
  }
  .social-media{
    width: 200px;
@@ -250,7 +250,6 @@ p#contact-text{
      color: #5ECCBD;
      font-size: 3em;
      text-align:center;
-     display: block;
    }
  .nav-container a:hover{
      color: #B5B262;
