@@ -240,8 +240,9 @@ p#contact-text{
    width: 145px;
    height: 50px;
    padding-top: 30px;
-   display: block;
+   display: inline-block;
    text-align: center;
+   margin: 0 auto;
  }
  .social-media{
    width: 200px;
