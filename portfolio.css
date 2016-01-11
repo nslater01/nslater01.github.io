@@ -237,6 +237,7 @@ p#contact-text{
 }
 .icon{
     text-align: center;
+    display: inline-block;
 }
 .nav-container{
    width: 145px;
