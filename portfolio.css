@@ -250,6 +250,7 @@ p#contact-text{
      color: #5ECCBD;
      font-size: 3em;
      text-align:center;
+     display: inline-block;
    }
  .nav-container a:hover{
      color: #B5B262;
