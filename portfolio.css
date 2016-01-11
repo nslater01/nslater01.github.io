@@ -240,6 +240,7 @@ div#form{
   left: 470px;
   width: 600px;
   height: 800px;
+  padding-bottom: 100px;
  }
 #mce-name {
 	display: inline-block;
