@@ -258,15 +258,15 @@ p#contact-text{
      color: #5ECCBD;
      font-family: nevis;
      font-size: 1em;
-     margin-left: 90px;
+     text-align: center;
+     padding-bottom: 5px;
   }
   img#div-5{
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 0;
+  padding-bottom: 0;
   display: block;
   width: 1100px;
-  
-}
+  }
    
 
