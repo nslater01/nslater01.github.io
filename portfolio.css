@@ -241,14 +241,13 @@ p#contact-text{
    }
 #soc-med ul li a{
 	color: #5ECCBD;
-	width: 33.3%;
 }
 #soc-med ul li{
   display: inline;
-  padding-bottom: 50px;
   }
   #soc-med ul{
   	text-align: center;
+  	padding-bottom: 50px;
   }
  .nav-container a:hover{
      color: #B5B262;
