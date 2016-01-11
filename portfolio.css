@@ -239,10 +239,10 @@ p#contact-text{
    width:  100% ;
    height: 300px;
    }
-#social-med ul li a{
+#soc-med ul li a{
 	color: #5ECCBD;
 }
-#social-med ul li{
+#soc-med ul li{
   display: inline;
   text-decoration: none;
   padding-bottom: 10px;
