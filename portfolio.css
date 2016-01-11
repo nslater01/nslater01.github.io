@@ -235,15 +235,13 @@ p#contact-text{
   margin-right: 90px;
   padding-bottom: 50px;
 }
-.icon{
-    text-align: center;
-    
-}
+
 .nav-container{
    width: 145px;
    height: 50px;
    padding-top: 30px;
-   display: inline-block;
+   display: block;
+   text-align: center;
  }
  .social-media{
    width: 200px;
