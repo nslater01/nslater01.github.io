@@ -240,7 +240,8 @@ p#contact-text{
    width: 1100px ;
    height: 300px;
    }
- .social-media{
+ #social-media ul{
+  text-align: center;
    width: 200px;
  }
  .social-media li{
