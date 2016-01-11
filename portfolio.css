@@ -237,12 +237,13 @@ p#contact-text{
 }
 .icon{
     text-align: center;
-    display: inline-block;
+    
 }
 .nav-container{
    width: 145px;
    height: 50px;
-   padding-top: 50px;
+   padding-top: 30px;
+   display: inline-block;
  }
  .social-media{
    width: 200px;
