@@ -242,7 +242,7 @@ p#contact-text{
  #soc-media ul{
   text-align: center;
  }
- 
+ #soc-media li{
   width: 33.3%;
   color: ##5ECCBD;
   font-size: 3em;
