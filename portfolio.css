@@ -239,14 +239,16 @@ p#contact-text{
    width: 1100px ;
    height: 300px;
    }
- .ul-social-med li{
-  text-align: center;
- }
- .ul-social-med li a{
-  width: 33.3%;
-  color: ##5ECCBD;
-  font-size: 3em;
- }
+#social-med ul li .fa{
+	color: #5ECCBD;
+}
+#social-med ul li{
+  display: inline;
+  text-decoration: none;
+  padding-bottom: 10px;
+  width: 100%;
+  margin: 0 auto;
+}
  .nav-container a:hover{
      color: #B5B262;
    }
