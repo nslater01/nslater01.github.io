@@ -242,10 +242,12 @@ p#contact-text{
 #soc-med ul li a{
 	color: #5ECCBD;
 }
-
 #soc-med ul li{
   display: inline;
   padding-bottom: 10px;
+  }
+  #soc-med ul{
+  	text-align: center;
   }
  .nav-container a:hover{
      color: #B5B262;
