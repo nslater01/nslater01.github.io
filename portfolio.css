@@ -241,6 +241,7 @@ p#contact-text{
    }
 #soc-med ul li a{
 	color: #5ECCBD;
+	text-align: center;
 }
 #soc-med ul li{
   display: inline;
