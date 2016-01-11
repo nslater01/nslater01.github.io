@@ -236,7 +236,7 @@ p#contact-text{
   padding-bottom: 50px;
 }
 div#form{
- position: static;
+ position: relative;
   left: 470px;
   width: 600px;
   height: 800px;
