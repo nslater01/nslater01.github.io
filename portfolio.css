@@ -242,6 +242,9 @@ p#contact-text{
 #soc-med ul li a{
 	color: #5ECCBD;
 }
+#soc-med ul li a:hover{
+	color: #B5B262;
+}
 #soc-med ul li{
   display: inline;
   }
@@ -249,9 +252,6 @@ p#contact-text{
   	text-align: center;
   	padding-bottom: 50px;
   }
- .nav-container a:hover{
-     color: #B5B262;
-   }
    p#copyright-text{
      color: #5ECCBD;
      font-family: nevis;
