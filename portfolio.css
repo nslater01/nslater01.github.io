@@ -241,9 +241,11 @@ p#contact-text{
    }
  #soc-media ul{
   text-align: center;
+ }
+ 
   width: 33.3%;
   color: ##5ECCBD;
-   font-size: 3em;
+  font-size: 3em;
  }
  .nav-container a:hover{
      color: #B5B262;
