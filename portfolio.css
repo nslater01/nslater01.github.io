@@ -243,7 +243,8 @@ p#contact-text{
 	color: #5ECCBD;
 }
 #soc-med ul li{
-  text-align: center;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
   display: inline;
   text-decoration: none;
   padding-bottom: 10px;
