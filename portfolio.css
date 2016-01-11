@@ -235,66 +235,8 @@ p#contact-text{
   margin-right: 90px;
   padding-bottom: 50px;
 }
-div#form{
- position: relative;
-  left: 470px;
-  width: 600px;
-  height: 800px;
-  }
-#mce-name {
-	display: inline-block;
-	background-color: rgb(254, 252, 242);
-	border: 1px solid rgb(213, 202, 184);
-	border-radius: 5px;
-	width: 228px;
-	height: 32px;
-	margin-right: 3px;
-	color: #7a7063;
-	padding: 8px;
-}
-#mce-email-2 {
-	display: inline-block;
-	background-color: rgb(254, 252, 242);
-	border: 1px solid rgb(213, 202, 184);
-	border-radius: 5px;
-	width: 210px;
-	height: 32px;
-	color: #7a7063;
-	padding: 8px;
-}
-#mce-reason {
-	display: inline-block;
-	background-color: rgb(254, 252, 242);
-	border: 1px solid rgb(213, 202, 184);
-	border-radius: 5px;
-	width: 464px;
-	height: 32px;
-	margin-top: 8px;
-	color: #7a7063;
-	padding: 6Spx;
-}
-#mce-message {
-	display: inline-block;
-	background-color: rgb(254, 252, 242);
-	border: 1px solid rgb(213, 202, 184);
-	border-radius: 5px;
-	width: 464px;
-	height: 115px;
-	margin-top: 8px;
-	color: #7a7063;
-	padding: 8px;
-}
-#mc-embedded-sendmessage {
-	background-color: rgb(220, 193, 153);
-	border: 1px solid rgb(220, 193, 153);
-	border-radius: 5px;
-	width: 148px;
-	height: 32px;
-	margin-top: 8px;
-	font-weight: bold;
-	font-size: 16px;
-	margin-left: 3px;
-	color: rgb(51, 51, 51);
+.icon{
+    text-align: center;
 }
 .nav-container{
    width: 145px;
