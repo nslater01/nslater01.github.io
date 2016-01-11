@@ -239,10 +239,10 @@ p#contact-text{
    width: 1100px ;
    height: 300px;
    }
- .nav-container ul li{
+ .ul li{
   text-align: center;
  }
- .nav-container ul li a{
+ .ul li a{
   width: 33.3%;
   color: ##5ECCBD;
   font-size: 3em;
