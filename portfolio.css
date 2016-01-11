@@ -237,8 +237,8 @@ p#contact-text{
 }
 
 .nav-container{
-   width: 200px;
-   height: 150px;
+   margin: 0 auto;
+   height: 170px;
  }
  .social-media{
    width: 200px;
