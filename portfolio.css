@@ -239,6 +239,9 @@ p#contact-text{
 .nav-container{
    width: 200px ;
    height: 170px;
+   margin-left: auto;
+   margin-right: auto;
+   
  }
  .social-media{
    width: 200px;
@@ -259,7 +262,6 @@ p#contact-text{
      font-family: nevis;
      font-size: 1em;
      text-align: center;
-     padding-bottom: 1px;
   }
   img#div-5{
   margin-left: auto;
