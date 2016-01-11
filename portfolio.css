@@ -238,13 +238,12 @@ p#contact-text{
 .nav-container{
    width:  100% ;
    height: 300px;
+   text-align: center;
    }
 #soc-med ul li a{
 	color: #5ECCBD;
 }
-.i .fa{
-	text-align: center;
-}
+
 #soc-med ul li{
   display: inline;
   padding-bottom: 10px;
