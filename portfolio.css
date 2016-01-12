@@ -181,14 +181,14 @@ h2#skills{
  
    
 }
-.col-xs-2 {
+.col-xs-6 {
    float:left;
    margin-left: 280px;
    font-family: nevis;
    font-size: 1.5em;
    color: #B5B262;
 }
- .col-xs-4{
+ .col-xs-6{
    float: right;
    margin-right: 300px;
    font-family: nevis;
