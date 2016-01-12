@@ -80,7 +80,7 @@ input, select {
 
 
 body {
-	background-color: #FFFAD4;
+	background-color: #FFFFF0;
 }
 #dots-border-top{
   width: 100%;
@@ -92,7 +92,7 @@ div#top-nav {
   text-align: center;
   margin-top: 20px;
   margin-bottom: 40px;
-  background: #FFFEDE;
+  background: #FFFAD4;
   padding-top: 5px;
   padding-bottom: 5px;
 }
@@ -181,16 +181,16 @@ h2#skills{
  
    
 }
-#left-col {
+.col-xs-2 {
    float:left;
    margin-left: 280px;
    font-family: nevis;
    font-size: 1.5em;
    color: #B5B262;
 }
-#right-col {
+ .col-xs-4{
    float: right;
-   margin-right: 230px;
+   margin-right: 300px;
    font-family: nevis;
    font-size: 1.5em;
    color: #B5B262;
@@ -248,14 +248,17 @@ p#contact-text{
 #soc-med ul li{
   display: inline;
   }
-  #soc-med ul{
+#soc-med ul{
   	text-align: center;
   	padding-bottom: 50px;
-  }
-   p#copyright-text{
+}
+p#copyright-text{
      color: #5ECCBD;
      font-family: nevis;
      font-size: 1em;
      text-align: center;
-  }
+}
  
+   
+   
+   
