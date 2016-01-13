@@ -180,19 +180,19 @@ h2#skills{
 #wrap {
   overflow: auto;
   max-width: 100%;
- 
+  position: fixed;
 }
 .row-l {
    float:left;
-   margin-left: 28%px;
+   margin-left: 28%;
    font-family: nevis;
    font-size: 1.5em;
    color: #B5B262;
 }
  .row-r{
    float: right;
-   margin-right: 30%px;
-   margin-top: -15%px;
+   margin-right: 30%;
+   margin-top: -15%;
    font-family: nevis;
    font-size: 1.5em;
    color: #B5B262;
