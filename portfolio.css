@@ -171,12 +171,12 @@ h2#skills{
   text-align: center;
   padding-bottom: 30px;
 }
-.col-xs-6 ul li{
+.col-xs-4 ul li{
   color: #B5B262; 
   font-family: nevis; 
   font-size: 1.5em;
 }
-.container{
+.container-fluid{
   margin-left:auto;
   margin-right:auto;
   width:100%;
