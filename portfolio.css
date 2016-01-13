@@ -179,8 +179,6 @@ h2#skills{
 }
 #wrap {
   overflow: auto;
-  max-width: 100%;
-  position: fixed;
 }
 .row-l {
    float:left;
