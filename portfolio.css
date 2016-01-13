@@ -77,10 +77,7 @@ input, select {
 }
 
 
-
-
-html,body {
-	height: 100%;
+body {
 	background-color: #FFFFF0;
 }
 #dots-border-top{
@@ -107,19 +104,16 @@ div#top-nav li a {
   font-family: adagescriptjf;
   color: #B5B262;
   font-size: 2.5em;
-  }
+ }
 div#top-nav a:hover{
   color: #5ECCBD;
-  }
- 
+}
  img#photo {
   margin-left: auto;
   margin-right: auto;
   display: block;
   border: 2px solid #5ECCBD;
-  
 }
-
 h1#name{
   font-family: nevis;
   font-size: 5em;
@@ -177,28 +171,18 @@ h2#skills{
   text-align: center;
   padding-bottom: 30px;
 }
-#wrap {
-  max-width: 100%;
-  height: auto;
-  
+.col-xs-6 ul li{
+  color: #B5B262; 
+  font-family: nevis; 
+  font-size: 1.5em;
 }
-.row-l {
-   float:left;
-   margin-left: 370px;
-   font-family: nevis;
-   font-size: 1.5em;
-   color: #B5B262;
+.container{
+  margin-left:auto;
+  margin-right:auto;
+  width:100%;
+  max-width: 900px;
 }
- .row-r{
-   float: right;
-   margin-right: 380px;
-   margin-top: 5px;
-   font-family: nevis;
-   font-size: 1.5em;
-   color: #B5B262;
-   
-   
-}
+
 img#div-3{
   margin-left: auto;
   margin-right: auto;
