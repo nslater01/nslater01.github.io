@@ -92,13 +92,13 @@ div#top-nav {
   text-align: center;
   margin-top: 20px;
   margin-bottom: 40px;
-  background: #FFFAD4;
+  background: #FFFFF0;
   padding-top: 5px;
   padding-bottom: 5px;
 }
 div#top-nav li {
   display: inline;
-  background: #FFFEDE;
+  background: #FFFFF0;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -181,19 +181,21 @@ h2#skills{
  
    
 }
-.col-xs-6 {
+.row-l {
    float:left;
    margin-left: 280px;
    font-family: nevis;
    font-size: 1.5em;
    color: #B5B262;
 }
- .col-xs-6{
+ .row-r{
    float: right;
    margin-right: 300px;
+   margin-top: -150px;
    font-family: nevis;
    font-size: 1.5em;
    color: #B5B262;
+   
    
 }
 img#div-3{
@@ -251,12 +253,23 @@ p#contact-text{
 #soc-med ul{
   	text-align: center;
   	padding-bottom: 50px;
-}
-p#copyright-text{
+  }
+ p#copyright-text{
      color: #5ECCBD;
      font-family: nevis;
      font-size: 1em;
      text-align: center;
+  }
+.top-button{
+    text-align: center;
+    font-family: nevis;
+    font-size: 1em;
+    }
+.top-button a{
+      color: #B5B262;
+    }
+.top-button a:hover{
+  color: #5ECCBD;
 }
  
    
