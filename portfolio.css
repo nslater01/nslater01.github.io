@@ -79,7 +79,8 @@ input, select {
 
 
 
-body {
+html,body {
+	height: 100%;
 	background-color: #FFFFF0;
 }
 #dots-border-top{
@@ -178,8 +179,7 @@ h2#skills{
 }
 #wrap {
   overflow: auto;
- 
-   
+  max-width: 100%;
 }
 .row-l {
    float:left;
