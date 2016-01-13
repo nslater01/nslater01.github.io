@@ -243,6 +243,8 @@ p#contact-text{
    }
 #soc-med ul li a{
 	color: #5ECCBD;
+	font-size: 2em;
+	padding: 15px;
 }
 #soc-med ul li a:hover{
 	color: #B5B262;
