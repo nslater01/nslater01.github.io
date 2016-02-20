@@ -75,11 +75,16 @@ hr {
 input, select { 
   vertical-align: middle; 
 }
+/*end cross browser css*/
+
 
 
 body {
 	background-color: #FFFFFF;
 }
+
+/*top navigation, title, and photo*/
+
 #dots-border-top{
   margin-left: auto;
   margin-right: auto;
@@ -143,6 +148,9 @@ img#div-1{
   padding-top: 40px;
   padding-bottom: 30px;
 }
+
+/*About section*/
+
 h2#About{
   font-family: adagescriptjf;
   font-size: 3.5em;
@@ -167,6 +175,9 @@ img#div-2{
   padding-top: 40px;
   padding-bottom: 30px;
 }
+
+/*Skills section...add Bootstrap columns*/
+
 h2#skills{
   font-family: adagescriptjf;
   font-size: 3.5em;
@@ -194,6 +205,9 @@ img#div-3{
   padding-top: 60px;
   padding-bottom: 30px;
 }
+
+/*Projects section....add correct links once they're finished*/
+
 h2#projects{
   font-family: adagescriptjf;
   font-size: 3.5em;
@@ -227,6 +241,9 @@ img#div-3{
   padding-top: 60px;
   padding-bottom: 30px;
 }
+
+/*Contact and social icons*/
+
 h2#contact{
   font-family: adagescriptjf;
   font-size: 3.5em;
